@@ -11,7 +11,8 @@
 <h3 align="center"> 📨 SNS 📨
 <p>
 
-<a href="nicesery@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a> <a href="https://velog.io/@cherrish_red/about" target="_blank"><img src="https://img.shields.io/badge/Velog-00C897?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="nicesery@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a> 
+<a href="https://serynana.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-00C897?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 
 <h3 align="center"> 🛠 Skills & Tools 🛠
 <p>
